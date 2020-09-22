@@ -1,0 +1,4 @@
+applications:
+- name: movie
+  path: ./target/PCFSampleMoviesApp-0.0.1-SNAPSHOT.jar
+  memory: 1G

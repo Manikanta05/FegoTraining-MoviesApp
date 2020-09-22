@@ -1,0 +1,1 @@
+insert into movie ( id,name, desc) values( 1,'Thrones', 'Best Movie');
